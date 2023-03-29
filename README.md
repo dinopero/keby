@@ -1,0 +1,2 @@
+# keby
+Za potrebe Dinga
